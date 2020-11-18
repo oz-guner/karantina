@@ -27,6 +27,6 @@ elif gun in hafta_sonu:
         else:
             print("Cikamazsiniz.")
     else:
-        print("Ciamazsiniz.")
+        print("Cikamazsiniz.")
 else:
     print("Yanlis deger. Tekrar deneyin.")
